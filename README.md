@@ -1,4 +1,4 @@
-# Welcome to Spinner!
+# Welcome to Spinner Tutorial!
 
 Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 HTML, CSS & JAVASCRIPT.
+- 📦 HTML & CSS.
 
 ## Getting Started
 
